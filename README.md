@@ -23,8 +23,7 @@ Basically, I take care of everything that has to do with the client-side website
 
 📊 **This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=DaniCofee&hide_title=true&hide_border=true&langs_count=5)
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -42,6 +41,6 @@ Basically, I take care of everything that has to do with the client-side website
 ![AdobePhotoshop](https://img.shields.io/badge/-Adobe%20Photoshop%20-%2331A8FF?style=flat-square&logo=adobe%20photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
+¡[![Github Stats](https://github-readme-stats.vercel.app/api?username=DaniCofee)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniCofee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
