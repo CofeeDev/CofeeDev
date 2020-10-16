@@ -13,7 +13,7 @@ Basically, I take care of everything that has to do with the client-side website
 
 - 🛠 &nbsp; I’m currently working with HTML5, CSS3, Anime.js, <br /> Jquery, Boostrap, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Froendtend Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/DaniCofee).
+- 🔭 &nbsp; Most of my projects are available on [Github](https://github.com/DaniCofee).
 - 💬 &nbsp; Ask me about anything [here](https://twitter.com/CofeeDev/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: dannymarcano88@gmail.com
