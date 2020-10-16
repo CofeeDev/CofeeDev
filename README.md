@@ -1,4 +1,4 @@
-## Hi, I'm  your online friend [DaniCofee]☕(https://twitter.com/CofeeDev/)<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hi, I'm  your online friend [DaniCofee ☕](https://twitter.com/CofeeDev/)<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 I am a designer and programmer in general with multiple skills, I have extensive experience in creating websites using CSS3, HTML5, Bostrap, Javascript etc ...
 Basically, I take care of everything that has to do with the client-side website: designing it, programming it, plugins, links within the site, designing the interfaces among other things.
 
@@ -16,7 +16,12 @@ Basically, I take care of everything that has to do with the client-side website
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![Vue.js](https://img.shields.io/badge/-vuejs%20-%2335495e?style=flat-square&logo=vue.js)
+![Vue.js](https://img.shields.io/badge/-Vuejs.js-%2335495e?style=flat-square&logo=vue.js)
+![Jquery](https://img.shields.io/badge/-jquery-%230769AD?style=flat-square&logo=jquery)
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-%23FF9A00?style=flat-square&logo=adobe%20illustrator)
+![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=flat-square&logo=figma)
+
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
