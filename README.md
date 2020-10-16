@@ -2,7 +2,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-DaniCofee-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/CofeeDev/)](https://twitter.com/CofeeDev)
 [![Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=google-chrome&logoColor=%230076D6&link=https://twitter.com/CofeeDev/)](https://twitter.com/CofeeDev)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DaniCofee.DaniCofee)
 
 
 I am a designer and programmer in general with multiple skills, I have extensive experience in creating websites using CSS3, HTML5, Bostrap, Javascript etc ...
@@ -40,6 +40,6 @@ Basically, I take care of everything that has to do with the client-side website
 
 📊 **My Stats**
 
-¡[![Github Stats](https://github-readme-stats.vercel.app/api?username=DaniCofee)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=DaniCofee)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniCofee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
