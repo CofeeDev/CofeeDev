@@ -1,10 +1,22 @@
 ## Hi, I'm  your online friend [DaniCofee ☕](https://twitter.com/CofeeDev/)<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-I am a designer and programmer in general with multiple skills, I have extensive experience in creating websites using CSS3, HTML5, Bostrap, Javascript etc ...
-Basically, I take care of everything that has to do with the client-side website: designing it, programming it, plugins, links within the site, designing the interfaces among other things.
-
 [![Twitter Badge](https://img.shields.io/badge/-DaniCofee-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/CofeeDev/)](https://twitter.com/CofeeDev)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
 
+I am a designer and programmer in general with multiple skills, I have extensive experience in creating websites using CSS3, HTML5, Bostrap, Javascript etc ...
+Basically, I take care of everything that has to do with the client-side website: designing it, programming it, plugins, links within the site, designing the interfaces among other things.
+
+[![](https://gitwar.herokuapp.com/badge?username=DaniCofee&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
+
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
+### Talking about Personal Stuffs:
+
+- 🛠 &nbsp; I’m currently working with HTML5, CSS3, Anime.js, <br /> Jquery, Boostrap, Javascript, etc.
+- 🚀 &nbsp; I’m currently learning Froendtend Development.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/DaniCofee).
+- 💬 &nbsp; Ask me about anything [here](https://twitter.com/CofeeDev/)! I am happy to help.
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
+- 📫 &nbsp; How to reach me: dannymarcano88@gmail.com
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
