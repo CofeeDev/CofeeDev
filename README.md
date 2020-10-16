@@ -18,8 +18,8 @@ Basically, I take care of everything that has to do with the client-side website
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Vue.js](https://img.shields.io/badge/-Vuejs.js-%2335495e?style=flat-square&logo=vue.js)
 ![Jquery](https://img.shields.io/badge/-jquery-%230769AD?style=flat-square&logo=jquery)
-![Adobe Illustrator](https://img.shields.io/badge/-AdobeIllustrator-%23FF9A00?style=flat-square&logo=adobe%20illustrator)
-![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=flat-square&logo=figma)
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator?style=flat-square&logo=adobe%20illustrator)
+![Figma](https://img.shields.io/badge/-Figma?style=flat-square&logo=figma)
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
