@@ -1,7 +1,7 @@
 ## Hi, I'm  your online friend [DaniCofee ☕](https://twitter.com/CofeeDev/)<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 [![Twitter Badge](https://img.shields.io/badge/-DaniCofee-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/CofeeDev/)](https://twitter.com/CofeeDev)
-![Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=google-chrome&logoColor=%230076D6&link=https://twitter.com/CofeeDev/)](https://twitter.com/CofeeDev)
+[![Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=google-chrome&logoColor=%230076D6&link=https://twitter.com/CofeeDev/)](https://twitter.com/CofeeDev)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
 
 
@@ -21,9 +21,6 @@ Basically, I take care of everything that has to do with the client-side website
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: dannymarcano88@gmail.com
 
-📊 **This week I spent my time on**
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -41,6 +38,8 @@ Basically, I take care of everything that has to do with the client-side website
 ![AdobePhotoshop](https://img.shields.io/badge/-Adobe%20Photoshop%20-%2331A8FF?style=flat-square&logo=adobe%20photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white)
 
+📊 **My Stats**
+
 ¡[![Github Stats](https://github-readme-stats.vercel.app/api?username=DaniCofee)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniCofee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniCofee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
