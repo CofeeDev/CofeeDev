@@ -1,6 +1,9 @@
 ## Hi, I'm  your online friend [DaniCofee ☕](https://twitter.com/CofeeDev/)<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+
 [![Twitter Badge](https://img.shields.io/badge/-DaniCofee-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/CofeeDev/)](https://twitter.com/CofeeDev)
+![Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=google-chrome&logoColor=%230076D6&link=https://twitter.com/CofeeDev/)](https://twitter.com/CofeeDev))
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+
 
 I am a designer and programmer in general with multiple skills, I have extensive experience in creating websites using CSS3, HTML5, Bostrap, Javascript etc ...
 Basically, I take care of everything that has to do with the client-side website: designing it, programming it, plugins, links within the site, designing the interfaces among other things.
@@ -20,7 +23,7 @@ Basically, I take care of everything that has to do with the client-side website
 
 📊 **This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5)
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=DaniCofee&hide_title=true&hide_border=true&langs_count=5)
 
 ## ⚡ Technologies
 
