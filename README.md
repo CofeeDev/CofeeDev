@@ -3,8 +3,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-DaniCofee-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/CofeeDev/)](https://twitter.com/CofeeDev)
 [![Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=google-chrome&logoColor=%230076D6&link=https://twitter.com/CofeeDev/)](https://twitter.com/CofeeDev)
 
-I am a designer and programmer in general with multiple skills, I have extensive experience in creating websites using CSS3, HTML5, Bostrap, Javascript etc ...
-Basically, I take care of everything that has to do with the client-side website: designing it, programming it, plugins, links within the site, designing the interfaces among other things.
+Soy diseñador y Desarrollador web con multiples habilidades, Tengo mucha experiencia creando sitios web con CSS3, HTML5, Bostrap, Javascript etc ...
+Basicamente hago todo lo que tiene que ver con la parte del cliente: Diseñar el sitio web y el UI/UX, Desarrollarlo (Programarlo), Librerias y framework's...
 
 [![](https://gitwar.herokuapp.com/badge?username=DaniCofee&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
@@ -12,14 +12,14 @@ Basically, I take care of everything that has to do with the client-side website
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with HTML5, CSS3, Anime.js, <br /> Jquery, Boostrap, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Froendtend Development.
-- 🔭 &nbsp; Most of my projects are available on [Github](https://github.com/DaniCofee).
-- 💬 &nbsp; Ask me about anything [here](https://twitter.com/CofeeDev/)! I am happy to help.
+- 🛠 &nbsp; Trabajo con HTML5, CSS3, Anime.js, <br /> Jquery, Boostrap, Javascript, etc.
+- 🚀 &nbsp; Actualmente estoy aprendiendo más sobre el desarrollo Front-end.
+- 🔭 &nbsp; Puedes ver más Proyectos en mi [Github](https://github.com/DaniCofee).
+- 💬 &nbsp; Preguntame lo que quieras [here](https://twitter.com/CofeeDev/)! Estare feliz de ayudar.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: dannymarcano88@gmail.com
+- 📫 &nbsp; Para contactar conmigo (también me puedes contactar por twitter): dannymarcano88@gmail.com
 
-## ⚡ Technologies
+## ⚡ Habilidades
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -36,7 +36,7 @@ Basically, I take care of everything that has to do with the client-side website
 ![AdobePhotoshop](https://img.shields.io/badge/-Adobe%20Photoshop%20-%2331A8FF?style=flat-square&logo=adobe%20photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-📊 **My Stats**
+## 📊 Mi Estadisticas
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=DaniCofee)](https://github.com/anuraghazra/github-readme-stats)
 
