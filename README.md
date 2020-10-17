@@ -16,7 +16,7 @@ Basicamente hago todo lo que tiene que ver con la parte del cliente: Diseñar el
 - 🚀 &nbsp; Actualmente estoy aprendiendo más sobre el desarrollo Front-end.
 - 🔭 &nbsp; Puedes ver más Proyectos en mi [Github](https://github.com/DaniCofee).
 - 💬 &nbsp; Preguntame lo que quieras [Aqui](https://twitter.com/CofeeDev/)! Estare feliz de ayudar.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
+- 👾 &nbsp; Dato curioso: Igual no siempre es igual en Javascript.
 - 📫 &nbsp; Para contactar conmigo (también me puedes contactar por twitter): dannymarcano88@gmail.com
 
 ## ⚡ Habilidades
