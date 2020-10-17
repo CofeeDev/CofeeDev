@@ -15,7 +15,7 @@ Basicamente hago todo lo que tiene que ver con la parte del cliente: Diseñar el
 - 🛠 &nbsp; Trabajo con HTML5, CSS3, Anime.js, <br /> Jquery, Boostrap, Javascript, etc.
 - 🚀 &nbsp; Actualmente estoy aprendiendo más sobre el desarrollo Front-end.
 - 🔭 &nbsp; Puedes ver más Proyectos en mi [Github](https://github.com/DaniCofee).
-- 💬 &nbsp; Preguntame lo que quieras [here](https://twitter.com/CofeeDev/)! Estare feliz de ayudar.
+- 💬 &nbsp; Preguntame lo que quieras [Aqui](https://twitter.com/CofeeDev/)! Estare feliz de ayudar.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; Para contactar conmigo (también me puedes contactar por twitter): dannymarcano88@gmail.com
 
@@ -30,11 +30,9 @@ Basicamente hago todo lo que tiene que ver con la parte del cliente: Diseñar el
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![Vue.js](https://img.shields.io/badge/-Vuejs.js-%2335495e?style=flat-square&logo=vue.js)
 ![Jquery](https://img.shields.io/badge/-jquery-%230769AD?style=flat-square&logo=jquery)
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-%23FF9A00?style=flat-square&logo=adobe%20illustrator&logoColor=white)
 ![AdobePhotoshop](https://img.shields.io/badge/-Adobe%20Photoshop%20-%2331A8FF?style=flat-square&logo=adobe%20photoshop&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ## 📊 Mi Estadisticas
 
