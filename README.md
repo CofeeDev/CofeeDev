@@ -36,6 +36,6 @@ Basically I do everything that has to do with the client part: Design the websit
 
 ## 📊 Mi Estadisticas
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=DaniCofee)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=CofeeDev)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniCofee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CofeeDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
