@@ -3,8 +3,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-DaniCofee-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/CofeeDev/)](https://twitter.com/CofeeDev)
 [![Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=google-chrome&logoColor=%230076D6&link=https://twitter.com/CofeeDev/)](https://twitter.com/CofeeDev)
 
-Soy diseñador y Desarrollador web con multiples habilidades, Tengo mucha experiencia creando sitios web con CSS3, HTML5, Bostrap, Javascript etc ...
-Basicamente hago todo lo que tiene que ver con la parte del cliente: Diseñar el sitio web y el UI/UX, Desarrollarlo (Programarlo), Librerias y framework's...
+I am a designer and web developer with multiple skills, I have a lot of experience creating websites with CSS3, HTML5, Bostrap, Javascript etc ...
+Basically I do everything that has to do with the client part: Design the website and the UI / UX, Develop it (Program it), Libraries and frameworks ...
 
 [![](https://gitwar.herokuapp.com/badge?username=DaniCofee&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
@@ -12,14 +12,14 @@ Basicamente hago todo lo que tiene que ver con la parte del cliente: Diseñar el
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; Trabajo con HTML5, CSS3, Anime.js, <br /> Jquery, Boostrap, Javascript, etc.
-- 🚀 &nbsp; Actualmente estoy aprendiendo más sobre el desarrollo Front-end.
-- 🔭 &nbsp; Puedes ver más Proyectos en mi [Github](https://github.com/DaniCofee).
-- 💬 &nbsp; Preguntame lo que quieras [Aqui](https://twitter.com/CofeeDev/)! Estare feliz de ayudar.
-- 👾 &nbsp; Dato curioso: Igual no siempre es igual en Javascript.
-- 📫 &nbsp; Para contactar conmigo (también me puedes contactar por twitter): dannymarcano88@gmail.com
+- 🛠 &nbsp; Working with HTML5, CSS3, <br /> Jquery, Boostrap, Javascript, etc.
+- 🚀 &nbsp; I am currently learning more about development Front-end.
+- 🔭 &nbsp; You can see more projects in my [Github](https://github.com/DaniCofee).
+- 💬 &nbsp; Ask me whatever you want [Aqui](https://twitter.com/CofeeDev/)! I will be happy to help.
+- 👾 &nbsp; Fun fact: The same is not always the same in Javascript.
+- 📫 &nbsp; To contact me (you can also contact me by twitter): dannymarcano88@gmail.com
 
-## ⚡ Habilidades
+## ⚡ Skill
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
