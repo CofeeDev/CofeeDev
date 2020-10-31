@@ -15,7 +15,7 @@ Basically I do everything that has to do with the client part: Design the websit
 - 🛠 &nbsp; Working with HTML5, CSS3, <br /> Jquery, Boostrap, Javascript, etc.
 - 🚀 &nbsp; I am currently learning more about development Front-end.
 - 🔭 &nbsp; You can see more projects in my [Github](https://github.com/DaniCofee).
-- 💬 &nbsp; Ask me whatever you want [Aqui](https://twitter.com/CofeeDev/)! I will be happy to help.
+- 💬 &nbsp; Ask me whatever you want [Here](https://twitter.com/CofeeDev/)! I will be happy to help.
 - 👾 &nbsp; Fun fact: The same is not always the same in Javascript.
 - 📫 &nbsp; To contact me (you can also contact me by twitter): dannymarcano88@gmail.com
 
@@ -34,7 +34,7 @@ Basically I do everything that has to do with the client part: Design the websit
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-%23FF9A00?style=flat-square&logo=adobe%20illustrator&logoColor=white)
 ![AdobePhotoshop](https://img.shields.io/badge/-Adobe%20Photoshop%20-%2331A8FF?style=flat-square&logo=adobe%20photoshop&logoColor=white)
 
-## 📊 Mi Estadisticas
+## 📊 My Stats
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=CofeeDev)](https://github.com/anuraghazra/github-readme-stats)
 
