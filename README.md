@@ -6,8 +6,6 @@
 I am a designer and web developer with multiple skills, I have a lot of experience creating websites with CSS3, HTML5, Bostrap, Javascript etc ...
 Basically I do everything that has to do with the client part: Design the website and the UI / UX, Develop it (Program it), Libraries and frameworks ...
 
-[![](https://gitwar.herokuapp.com/badge?username=DaniCofee&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
-
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
