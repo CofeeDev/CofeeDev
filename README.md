@@ -31,10 +31,9 @@ Basically I do everything that has to do with the client part: Design the websit
 ![Jquery](https://img.shields.io/badge/-jquery-%230769AD?style=flat-square&logo=jquery)
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-%23FF9A00?style=flat-square&logo=adobe%20illustrator&logoColor=white)
 ![AdobePhotoshop](https://img.shields.io/badge/-Adobe%20Photoshop%20-%2331A8FF?style=flat-square&logo=adobe%20photoshop&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=flat-square&logo=vue.js&logoColor=white)
-![Material UI](https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=flat-square&logo=material-ui&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=flat-square&logo=webpack&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js%20-%2335495e.svg?&style=flat-square&logo=vue.js&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20Ui%20-%230081CB.svg?&style=flat-square&logo=Material-Ui&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS%20-hotpink.svg?&style=flat-square&logo=SASS&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/NuxtJS%20-%2335495e.svg?&style=flat-square&logo=NuxtJS&logoColor=white)
 
